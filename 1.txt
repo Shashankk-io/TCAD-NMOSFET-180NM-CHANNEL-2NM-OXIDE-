@@ -1,0 +1,6 @@
+Ioff_A_per_um  2.16149298518e-10
+Ion_A_per_um   0.000240020798673
+Ion_over_Ioff  1110439.86873
+Vt_V           0.194748095885
+SS_mV_per_dec  n/a
+vth =0.544
