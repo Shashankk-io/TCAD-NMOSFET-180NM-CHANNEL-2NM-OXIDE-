@@ -24,3 +24,4 @@ Electrical Characterization
 - ON-current and OFF-current extraction
 - ON/OFF current ratio
 - Capacitance characteristics (Cgg,Cgs,Cgd,Cds)
+WE HAVE HERE CHANGED THE OXIDE BORON DOPING ARSENIC DOPING AND ALL THE 3 AT THE SAME TIME AND OBSERVED WHICH GIVES THE HIGHEST ION/IOFF RATIO
